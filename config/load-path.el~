@@ -1,0 +1,4 @@
+;;; ロードパスの追加
+(setq load-path (append
+                 '("~/.emacs.d")
+                 load-path))

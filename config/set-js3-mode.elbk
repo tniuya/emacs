@@ -1,0 +1,6 @@
+;;set-js3-mode.el
+(add-to-list 'load-path "~/.emacs.d/el-get/js3-mode")
+(js3-auto-indent-p t)
+(js3-enter-indents-nerline t)
+(js3-indent-on-enter-key t)
+

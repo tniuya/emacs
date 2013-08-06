@@ -1,0 +1,187 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/taka/railsproj/file71833/miniSNS/app/views/" . "members/")
+ ("/Users/taka/railsproj/miniSNS/app/views/" . "members/")
+ ("/Users/taka/railsproj/miniSNS/app/" . "views/")
+ ("/Users/taka/railsproj/miniSNS/" . "config/")
+ ("/Users/taka/railsproj/" . "miniSNS/")
+ ("/Users/taka/" . "railsproj/")
+ ("/Users/taka/railsproj/mymodel1/app/models/" . "concerns/")
+ ("/Users/taka/railsproj/mymodel1/app/" . "controllers/")
+ ("/Users/taka/railsproj/auth/db/" . "migrate/")
+ ("/Users/taka/railsproj/auth/config/" . "environments/")
+ ("/Users/taka/railsproj/auth/" . "db/")
+ ("/Users/taka/railsproj/auth/app/views/" . "layouts/")
+ ("/Users/taka/railsproj/auth/app/" . "views/")
+ ("/Users/taka/rubyproj/design-pattern/" . "chapter-03/")
+ ("/Users/taka/rubyproj/" . "design-pattern/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/taka/.emacs.d/config/"
+ "/Users/taka/railsproj/file71833/miniSNS/app/views/members/"
+ "/Users/taka/railsproj/file71833/miniSNS/app/views/layouts/"
+ "/Users/taka/railsproj/file71833/miniSNS/app/views/messages/"
+ "/Users/taka/railsproj/miniSNS/app/models/"
+ "/Users/taka/railsproj/miniSNS/app/views/messages/"
+ "/Users/taka/railsproj/miniSNS/config/"
+ "/Users/taka/railsproj/miniSNS/app/views/members/"
+ "/Users/taka/railsproj/miniSNS/app/controllers/"
+ "/Users/taka/railsproj/mymodel1/config/locales/"
+ "/Users/taka/railsproj/mymodel1/app/models/"
+ "/Users/taka/railsproj/mymodel1/app/views/samples/"
+ "/Users/taka/railsproj/mymodel1/app/assets/javascripts/"
+ "/Users/taka/railsproj/mypartial/app/views/partials/"
+ "/Users/taka/railsproj/mylayout/app/views/layouts/"
+ "/Users/taka/railsproj/mypartial/app/views/layouts/"
+ "/Users/taka/"
+ "/Users/taka/railsproj/auth/app/controllers/"
+ "/Users/taka/railsproj/auth/db/migrate/"
+ "/Users/taka/railsproj/auth/config/"
+ "/Users/taka/railsproj/auth/app/views/layouts/"
+ "/Users/taka/railsproj/auth/config/environments/"
+ "/Users/taka/rubyproj/mechanize/"
+ "/Users/taka/rubyproj/tco/"
+ "/Users/taka/rubyproj/ruby-meta-programming/chapter-04/class_definition/"
+ "/Users/taka/rubyproj/ruby-meta-programming/chapter-03/blocks/"
+ "/Users/taka/rubyproj/ruby-meta-programming/chapter-03/block/"
+ "/Users/taka/rubyproj/ruby-meta-programming/chapter-02/method/computer/"
+ "/Users/taka/rubyproj/ruby-meta-programming/chapter-02/method/"
+ "/Users/taka/rubyproj/design-pattern/chapter-06/"
+ "/Users/taka/rubyproj/design-pattern/chapter-05/"
+ "/Users/taka/rubyproj/design-pattern/chapter-04/"
+ "/Users/taka/rubyproj/design-pattern/chapter-03/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "set-js3-mode.el"
+ "show.html.erb"
+ "application.html.erb"
+ "_form.html.erb"
+ "new.html.erb"
+ "comment.rb"
+ "show.json.jbuilder"
+ "routes.rb"
+ "members_controller.rb"
+ "application_controller.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/taka/.emacs.d/config/" (20991 29641 0 0) "set-zencoding-mode.el" "set-yasnippets.el~" "set-yasnippets.el" "set-yasnippet.el~" "set-yaml-mode.el~" "set-yaml-mode.elc" "set-yaml-mode.el" "set-xmpfilter.el~" "set-xmpfilter.elc" "set-xmpfilter.el" "set-w3m.el~" "set-w3m.el" "set-start-fastri-server.el~" "set-start-fastri-server.el" "set-smartchr.elbk" "set-smart-compile.el~" "set-smart-compile.el" "set-slime.el~" "set-slime.elc" "set-slime.el" "set-scss-mode.elc" "set-scss-mode.el" "set-rvm.el~" "set-rvm.elc" "set-rvm.el" "set-ruby-mode.el~" "set-ruby-mode.elc" "set-ruby-mode.el" "set-ruby-electric.el" "set-ruby-block.el" "set-rsense.el~" "set-rsense.el" "set-rinari.el" "set-rhtml-mode.el~" "set-rhtml-mode.elc" "set-rhtml-mode.el" "set-rails.el" "set-package.el" "set-open-junk-file.el~" "set-open-junk-file.el" "set-load-path.el" "set-lispxmp.el~" "set-lispxmp.el" "set-line-num.el" "set-lin-num.el" "set-language.el~" "set-language.el" "set-js2-mode.elc" "set-js2-mode.el" "set-ipa.elc" "set-ipa.el" "set-helm.el" "set-flymake.el" "set-flymake-ruby.elc" "set-flymake-ruby.el" "set-flymake-csslint.el~" "set-flymake-csslint.elc" "set-flymake-csslint.el" "set-flymake-coffee.elc" "set-flymake-coffee.el" "set-enhanced-ruby-mode.el~" "set-enhanced-ruby-mode.el" "set-el-get.el" "set-direx.el~" "set-direx.el" "set-direx-project.el~" "set-direx-project.el" "set-css-mode.elc" "set-css-mode.el" "set-color.elc" "set-color-theme.elc" "set-color-theme.el" "set-coffee-mode.el~" "set-coffee-mode.elc" "set-coffee-mode.el" "set-autoinsert.el~" "set-autoinsert.elc" "set-autoinsert.el" "set-auto-install.el~" "set-auto-install.elc" "set-auto-install.el" "set-auto-complete.el~" "set-auto-complete.el" "set-auto-async-byte-compile.el~" "set-auto-async-byte-compile.el" "set-anything.el~" "set-anything.el" "set-anything-ipa.el" "set-align.el~" "set-align.el" "set-align-by-current-symbol.el~" "set-align-by-current-symbol.el" "no-startup-message.el" "load-path.el~" "keep-scratch.el~" "keep-scratch.el" "insert/" ".emacs.desktop.lock" ".emacs.desktop" ".DS_Store" ".#set-js2-mode.el" "#set-yasnipplet.el#" "#set-el-get.el#" "#.bashrc#" "../" "./")
+
+ ("/Users/taka/railsproj/first_app/config/" (20989 5675 0 0) "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "#environment#" "../" "./")
+
+ ("/Users/taka/railsproj/file71833/miniSNS/app/views/members/" (20855 24322 0 0) "show.html.erb" "new.html.erb" "login.html.erb" "index.html.erb" "edit.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/file71833/miniSNS/app/views/layouts/" (20986 65218 0 0) "application.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/file71833/miniSNS/app/views/" (20855 24322 0 0) "messages/" "members/" "layouts/" "friends/" "comments/" "../" "./")
+
+ ("/Users/taka/" (20986 64286 0 0) "酒店价格2013-5-20.xls" "お読みください.pdf" "zsh_plugin/" "zaw/" "watir/" "vpworkspace/" "visualparadigm/" "vimbackup/" "Tutorial.origin" "TUTORCOPY~" "TUTORCOPY" "tmp/" "test~" "testlog.csv" "test.txt" "test.rb~" "test.rb" "test.py" "test.jsp" "test.html.erb" "test" "taka-repositries/" "springsource/" "springrooproj/" "SkyDrive/" "Sites/" "server.conf/" "sahi/" "rubyproj/" "rand.dat" "railsproj/" "pythonproj/" "Public/" "Projects/" "postgresql_92.app.zip" "playframeworkproj/" "Pictures/" "phpbrew" "pear/" "PDO_MYSQL-1.0.2/" "package2.xml" "package.xml" "node_modules/" "network/" "NetBeansProjects_vaio/" "NetBeansProjects/" "nerdtree/" "Music/" "Movies/" "mavenproj/" "macvim/" "logfile" "log" "livarhive_bk.rb" "LibraryJavaJar/" "Library/" "Jmeter統計/" "jmeter.log" "java/" "jamyto.xml" "jamyto/" "homebrew-splhack/" "hello.sh" "go-pear.php" "GlassFish_Server/" "glassfish4/" "elispproj/" "Downloads/" "Documents/" "Desktop/" "desert.vim/" "csslint~" "coffeeproj/" "buffer.txt" "Applications (Parallels)/" "Applications/" ".zshrc~" ".zshrc" ".zsh_profile~" ".zsh_profile" ".zsh_history" ".zcompdump" ".Xauthority" ".w3m/" ".vnc/" ".vimrc~" ".vimrcbk" ".vimrc" ".vimperator/" ".viminfo" ".vim/" ".usermin/" ".unite/" ".Trash/" ".tmp/" ".test.swp" ".subversion/" ".ssh/" ".sqlite_history" ".spring_roo_pgp.bpg" ".slime-history.eld" ".slime/" ".sh_history" ".screenrc" ".scala_history" ".sbt/" ".rsense" ".roboform/" ".rnd" ".rbenv/" ".putty/" ".psql_history" ".pryrc~" ".pryrcbk" ".pry_history" ".projects.ede" ".phpbrew/" ".pgpass" ".pearrc" ".npm/" ".node-gyp/" ".netrc" ".netbeans-derby/" ".neocomplcache/" ".nbprofiler/" ".mysql_history" ".mime.types" ".maxima/" ".mailcap" ".MacOSX/" ".m2/" ".local/" ".lesshst" ".jindent/" ".irbrc~" ".irbrc" ".irbc" ".irb_history" ".ipa" ".inputrc" ".homebrew/" ".heroku/" ".gvimrc" ".goodsync/" ".gnuplot_history" ".gitignore" ".gitconfig" ".git/" ".gfclient/" ".gem/" ".filezilla/" ".fetchmailrc" ".esets/" ".emacs~" ".emacs.dosusume/" ".emacs.dbk/" ".emacs.d/" ".eclipse_keyring" ".eclipse/" ".DS_Store" ".dict~" ".dict" ".cups/" ".config/" ".coffee_history" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bitrock/" ".bashrc~" ".bashrc" ".bash_profile.macports-saved_2013-04-11_at_15:53:35" ".bash_profile" ".bash_history" ".asadminpass" "*message*-20130701-122733" "#test.txt#" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/assets/javascripts/" (20980 27551 0 0) "samples.js~" "samples.js.js" "samples.js.coffee~" "samples.js.coffee" "samples.js.bk2" "samples.js.bk" "samples.js" "samples.coffee" "memos.js.coffee" "i18n/" "application.js~" "application.js" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/views/samples/" (20980 57225 0 0) "view_controller.rb" "update.html.erb~" "update.html.erb" "show.html.erb~" "show.html.erb" "index.html.erb~" "index.html.erb" "get_ajax2.js.erb" "get_ajax.js.erb~" "get_ajax.js.erb" "findName.html.erb~" "findName.html.erb" "findIDs.html.erb~" "findIDs.html.erb" "find.html.erb~" "find.html.erb" "async_greeting.js.erb" "_async_greet.html.erb" "#index.html.erb#" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/models/" (20980 57596 0 0) "samples.rb~" "samples.rb" "my_validator.rb" "memo.rb" "foo.rb" "concerns/" ".keep" "#samples.rb#" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/config/locales/" (20980 24329 0 0) "ja.yml~" "ja.yml" "en.yml" "cn.yml~" "cn.yml" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/controllers/" (20986 64684 0 0) "messages_controller.rb~" "messages_controller.rb" "members_controller.rb~" "members_controller.rb" "friends_controller.rb" "concerns/" "comments_controller.rb~" "comments_controller.rb" "application_controller.rb~" "application_controller.rb" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/views/members/" (20986 19632 0 0) "show.json.jbuilder" "show.html.erb~" "show.html.erb" "new.html.erb" "login.html.erb~" "login.html.erb" "index.json.jbuilder" "index.html.erb~" "index.html.erb" "edit.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/config/" (20986 63126 0 0) "routes.rb~" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb~" "application.rb" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/views/messages/" (20986 64376 0 0) "show.json.jbuilder" "show.html.erb~" "show.html.erb" "new.html.erb" "index.json.jbuilder" "index.html.erb~" "index.html.erb" "edit.html.erb" "_form.html.erb~" "_form.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/models/" (20986 47361 0 0) "message.rb~" "message.rb" "member.rb~" "member.rb" "friend.rb" "concerns/" "comment.rb~" "comment.rb" ".keep" "../" "./")
+
+ ("/Users/taka/railsproj/file71833/miniSNS/app/views/messages/" (20986 64195 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/views/" (20981 44786 0 0) "messages/" "members/" "layouts/" "friends/" "comments/" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/app/" (20977 22963 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/taka/railsproj/miniSNS/" (20977 23149 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/taka/railsproj/" (20978 10664 0 0) "sample3/" "sample2/" "sample/" "nchak/" "myrestaurant/" "myping/" "mypartial/" "mymodel2/" "mymodel1/" "mylayout/" "mychumon/" "myapp/" "miniSNS/" "chumon/" "books/" "auth/" "asagaopsql/" "asagaomysql/" "asagao/" ".DS_Store" "../" "./")
+
+ ("/Users/taka/railsproj/mypartial/app/views/layouts/" (20974 677 0 0) "mylayout.html.erb~" "mylayout.html.erb" "application.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/mylayout/app/views/layouts/" (20973 39982 0 0) "mylayout.html.erb~" "mylayout.html.erb" "myheader.html.erb" "myfooter.html.erb~" "myfooter.html.erb" "application.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/mypartial/app/views/partials/" (20974 12348 0 0) "_myheader.html.erb~" "_myheader.html.erb" "_myfooter.html.erb" "_mydata.html.erb~" "_mydata.html.erbbk" "_mydata.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/" (20974 4375 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/models/concerns/" (20974 3775 0 0) ".keep" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/views/" (20977 46877 0 0) "samples/" "partials/" "memos/" "layouts/" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/" (20974 3775 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/controllers/" (20978 14487 0 0) "samples_controller.rb~" "samples_controller.rb" "memos_controller.rb~" "memos_controller.rb" "concerns/" "application_controller.rb" ".#application_controller.rb" "../" "./")
+
+ ("/Users/taka/railsproj/mymodel1/app/views/partials/" (20974 10475 0 0) "_myheader.html.erb~" "_myheader.html.erb" "_myfooter.html.erb" "_mydata.html.erb~" "_mydata.html.erbbk" "_mydata.html.erb" ".#_myheader.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/config/environments/" (20972 16850 0 0) "test.rb" "production.rb" "development.rb~" "development.rb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/config/" (20971 61950 0 0) "routes.rb~" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/app/controllers/" (20971 61913 0 0) "welcome_controller.rb~" "welcome_controller.rb" "tasks_controller.rb" "concerns/" "application_controller.rb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/db/migrate/" (20971 59999 0 0) "20130721135847_devise_create_users.rb~" "20130721135847_devise_create_users.rb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/db/" (20971 59671 0 0) "seeds.rb" "migrate/" "development.sqlite3" "../" "./")
+
+ ("/Users/taka/railsproj/auth/app/models/" (20971 59825 0 0) "user.rb~" "user.rb" "concerns/" ".keep" "../" "./")
+
+ ("/Users/taka/railsproj/auth/app/views/layouts/" (20971 59307 0 0) "application.html.erb~" "application.html.erb" "../" "./")
+
+ ("/Users/taka/railsproj/auth/app/views/" (20971 58126 0 0) "layouts/" "../" "./")
+
+ ("/Users/taka/railsproj/auth/app/" (20971 58126 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/taka/railsproj/auth/" (20971 58361 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/taka/railsproj/auth/public/" (20971 54275 0 0) "robots.txt" "favicon.ico" "500.html" "422.html" "404.html" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-02/method/" (20967 39901 0 0) "xmptmp-out51821Dnn.rb" "xmptmp-out513684sb.rb" "xmptmp-out49352WtL.rb" "xmptmp-in518212ch.rb" "xmptmp-in51368riV.rb" "xmptmp-in49352JjF.rb" "undef_method.rb" "symbol.rb" "ruport_eample.rb~" "ruport_eample.rb" "openstruct.rb" "MyDynamicProxy.rb~" "MyDynamicProxy.rb" "my_ostruct.rb" "more_method_missing.rb~" "more_method_missing.rb" "methods_benchmark.rb" "method_missing.rb~" "method_missing.rb" "fixnum.rb" "dynamic_call.rb" "delegator.rb" "computer/" "builder_example.rb~" "builder_example.rb" "bug_hunt_solution.rb~" "bug_hunt_solution.rb" "bug_hunt.rb" ".#bug_hunt.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-03/blocks/" (20968 17594 0 0) "using_test.rb~" "using_test.rb" "using.rb" "trap1_8.rb" "toplevelvariable.rb~" "toplevelvariable.rb" "shared_scope.rb~" "shared_scope.rb" "scopes.rb" "instance_exec.rb~" "instance_exec.rb" "instance_eval.rb~" "instance_eval.rb" "flat_scope_3.rb" "closure.rb" "blocklocalvariable.rb~" "blocklocalvariable.rb" "basics.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-04/class_definition/" (20969 50983 0 0) "starbacksSpecialMethod.rb~" "starbacksSpecialMethod.rb" "starbacksSpecialClass.rb~" "starbacksSpecialClass.rb" "starbacks.rb~" "starbacks.rb" "paragraph.rb~" "paragraph.rb" "paragrapf.rb" "broken_math.rb~" "broken_math.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/tco/" (20970 16234 0 0) "xmptmp-out93759aot.rb" "xmptmp-out9313rej.rb" "xmptmp-in93759Nen.rb" "xmptmp-in9313eUd.rb" "tco2.rb~" "tco2.rb" "tco.rb~" "tco.rb" "sum_main.rb~" "sum_main.rb" "moduleTCO.rb" "factorial_main.rb~" "factorial_main.rb" "evenodd_main.rb~" "evenodd_main.rb" ".#tco.rb" "#evenodd_main.rb#" "../" "./")
+
+ ("/Users/taka/rubyproj/mechanize/" (20970 47746 0 0) "xmptmp-out45234hdw.rb" "xmptmp-out40498ZeI.rb" "xmptmp-out39921vvb.rb" "xmptmp-out39749gZI.rb" "xmptmp-out36862N-m.rb" "xmptmp-out36202hkP.rb" "xmptmp-in45234UTq.rb" "xmptmp-in40498MUC.rb" "xmptmp-in39921ilV.rb" "xmptmp-in39749TPC.rb" "xmptmp-in36862BBe.rb" "xmptmp-in36202UaJ.rb" "testauth.rb~" "testauth.rb" "shopRouter.rb~" "shopRouter.rb" "ruby-lang.rb~" "ruby-lang.rb" "nokogiri.rb~" "nokogiri.rb" "myrooterip.rb~" "myrooterip.rb" "mech.log" "ipcam1_p.rb~" "ipcam1_p.rb" "ipcam1.rb" "cameracontrol.rb~" "cameracontrol.rb" "../" "./")
+
+ ("/Users/" (20847 54980 0 0) "takayukiniuya/" "taka/" "Shared/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/taka/rubyproj/" (20970 31037 0 0) "yaml/" "while.rb" "transobj.rb" "text.rb" "test3.rb~" "test3.rb" "test2.rb" "test.rb~" "test.rb" "tcp/" "tco/" "send/" "ruby2.rb" "ruby.rb" "ruby-scheme/" "ruby-recipe-303/" "ruby-programming-language/" "ruby-meta-programming/" "ruby-iref-handbook/" "ruby-design-pattern/" "print.rb" "output.txt" "object/" "net-ping/" "module/" "method/" "mechanize/" "macaddr/" "list4-4.rb" "list2-29.rb~" "list2-29.rb" "list2-28.rb" "list2-27.rb~" "list2-27.rb" "list2-25.rb~" "list2-25.rb" "list2-23.rb~" "list2-23.rb" "list2-22.rb" "list2-21.rb" "list2-20.rb" "list2-19.rb~" "list2-19.rb" "list2-14.rb" "line.rb" "join/" "iteration.rb~" "iteration.rb" "inspect.rb" "indent.rb" "hello.rb" "for.rb" "fileread.rb" "factorial/" "data.txt" "curry/" "case.rb" "array.rb" "2-2-3e.rb" "2-2-3c.rb" "2-2-3b.rb" "2-2-3a.rb" "2-2-2d.rb" "2-2-2c.rb" "2-2-1d.rb" "2-2-1c.rb" "2-13b.rb" "2-1-4a.rb" "2-1-2b.rb" ".DS_Store" ".#while.rb" ".#test.txt" ".#test.el" ".#print.rb" ".#indent.rb" ".#class.rb" ".#case.rb" ".#array.rb" "#list2-24.rb#" "../" "./")
+
+ ("/Users/taka/rubyproj/design-pattern/chapter-04/" (20961 29191 0 0) "yield2.rb~" "yield2.rb" "yield.rb~" "yield.rb" "yield-block.rb~" "yield-block.rb" "strategy-report04.rb~" "strategy-report04.rb" "strategy-report03.rb~" "strategy-report03.rb" "strategy-report02.rb~" "strategy-report02.rb" "strategy-report01.rb" "sort.rb" "proc.rb" "lamda1.rb" "lambda.rb" "codeblock.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/design-pattern/chapter-05/" (20961 46860 0 0) "employee06.rb~" "employee06.rb" "employee05.rb~" "employee05.rb" "employee04.rb~" "employee04.rb" "employee03.rb~" "employee03.rb" "employee02.rb~" "employee02.rb" "employee01.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/design-pattern/chapter-06/" (20961 48931 0 0) ".#task01.rb" "#task01.rb#~~" "#task01.rb#~" "#task01.rb#" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-02/method/computer/" (20966 14653 0 0) "send.rb~" "send.rb" "proxy.rb~" "proxy.rb" "procy.rb~" "more_dynamic.rb~" "more_dynamic.rb" "more_blank.rb~" "more_blank.rb" "final.rb~" "final.rb" "dynamic.rb~" "dynamic.rb" "data_source.rb~" "data_source.rb" "boring.rb~" "boring.rb" "blank.rb~" "blank.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-03/block/" (20966 20727 0 0) "using_test.rb" "basics.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/ruby-meta-programming/chapter-01/object_model/" (20965 9134 0 0) "tangle.rb~" "tangle.rb" ".#self.rb" "#self.rb#" "../" "./")
+
+ ("/Users/taka/rubyproj/design-pattern/chapter-03/" (20960 43737 0 0) "report04.rb~" "report04.rb" "report03.rb~" "report03.rb" "report02.rb~" "report02.rb" "report01.rb" "helloserver.rb~" "helloserver.rb" "emptytest.rb~" "emptytest.rb" "empty.rb" "../" "./")
+
+ ("/Users/taka/rubyproj/design-pattern/" (20961 9769 0 0) "chapter-04/" "chapter-03/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

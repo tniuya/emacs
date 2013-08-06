@@ -1,0 +1,4 @@
+;;; smart-compile                                       
+(require 'smart-compile)
+(global-set-key (kbd "C-x c") 'smart-compile)
+(global-set-key (kbd "C-x C-x") (kbd "C-x c C-m"))

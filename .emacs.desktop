@@ -1,0 +1,183 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jul 11 04:45:56 2013
+;; Desktop file format version 206
+;; Emacs version 24.3.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("align"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/taka/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-async-byte-compile-mode linum-mode auto-complete-mode)
+  3
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-iref-handbook/chapter14/section-263-1.rb"
+  "section-263-1.rb"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.bashrc"
+  ".bashrc"
+  'sh-mode
+  '(linum-mode auto-complete-mode)
+  959
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-recipe-303/chapter-11/list-284-1.rb"
+  "list-284-1.rb"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  56
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.rbenv/version"
+  "version"
+  'fundamental-mode
+  '(linum-mode)
+  11
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-recipe-303/chapter-10/simpleapp.ru"
+  "simpleapp.ru"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  106
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-recipe-303/chapter-10/simpleapp.rb"
+  "simpleapp.rb"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  53
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-scheme/rscheme.rb"
+  "rscheme.rb"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  1686
+  '(2368 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-scheme/test.rb"
+  "test.rb"
+  'ruby-mode
+  '(linum-mode auto-complete-mode ruby-electric-mode rspec-verifiable-mode)
+  78
+  '(6 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/taka/rubyproj/ruby-scheme/test.txt"
+  "test.txt"
+  'text-mode
+  '(linum-mode)
+  98
+  '(53 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.emacs.d/config/set-align-by-current-symbol.el"
+  "set-align-by-current-symbol.el"
+  'emacs-lisp-mode
+  '(auto-async-byte-compile-mode linum-mode auto-complete-mode)
+  142
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.emacs.d/config/set-align.el"
+  "set-align.el"
+  'emacs-lisp-mode
+  '(auto-async-byte-compile-mode linum-mode auto-complete-mode)
+  18
+  '(18 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.emacs.d/config/set-smartchr.el"
+  "set-smartchr.el"
+  'emacs-lisp-mode
+  '(auto-async-byte-compile-mode linum-mode auto-complete-mode)
+  224
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.irbrc"
+  ".irbrc"
+  'fundamental-mode
+  '(linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taka/.irbc"
+  ".irbc"
+  'fundamental-mode
+  '(linum-mode)
+  25
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+

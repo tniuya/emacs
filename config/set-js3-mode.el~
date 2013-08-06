@@ -1,0 +1,5 @@
+;;set-js3-mode.el
+(add-to-list 'load-path "~/.emacs.d/el-get/js3-mode")
+(when (require 'js2-mode nil t)
+  (add-to-list 'auto-mode-alist '("\\.js$" . js2-mode))
+)
